@@ -1,0 +1,9 @@
+streamlit>=1.36.0
+pillow>=10.3.0
+numpy>=1.26.4
+tqdm>=4.66.4
+faiss-cpu>=1.8.0
+torch>=2.2.0
+torchvision>=0.17.0
+sentence-transformers>=3.0.1
+transformers>=4.44.0
